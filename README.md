@@ -13,12 +13,12 @@
  1. Clone este repositorio em sua maquina utilizando o gitbash:
  
 ``` 
-git clone https://github.com/giovanesantiago/Desafio-Capgemini.git
+git clone https://github.com/giovanesantiago/Desafio-Capgemini.git](https://github.com/giovanesantiago/Redes-Socias.git
 ```
 
 2. Acesse a pasta do projeto e abra o arquivo :
 
 ``` 
-
+index.html
 ```        
 
